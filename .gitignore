@@ -1,0 +1,8 @@
+# exclude large binaries and archives
+src/orca-6.1.0-f.0_linux_x86-64/
+src/qcxms2_src_env/
+src/*.tar.xz
+*.tar.xz
+*.tar
+*.zip
+*.so
